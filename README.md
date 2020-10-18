@@ -1,3 +1,1 @@
 # training
-
-Hello World ! 
